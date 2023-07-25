@@ -18,7 +18,7 @@ AlipayPlugin.login({
 	})
 
 ```
-####返回事例
+#### 返回事例
 
 ```
 {"scope":"auth_user","result_code":"SUCCESS","state":"init","app_id":"2xxxxxxxxxxxx4","auth_code":"xxxxxxxxxxxxxxxxx"}
