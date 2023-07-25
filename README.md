@@ -3,7 +3,7 @@ uniapp iOS移动端支付宝原生sdk授权登录获取auth_code，解压zip，�
 
 使用
 ```
-const AlipayPlugin = uni.requireNativePlugin("DHQ-ios-AlipayAuth");
+const AlipayPlugin = uni.requireNativePlugin("DHQ-ios-AlipayAuthPlugin");
 
 //支付宝官方极简版SDK参考链接：https://opendocs.alipay.com/open/218/wy75xo?pathHash=03eeb9c7
 //传入参数后拼接的而成的链接参考：https://authweb.alipay.com/auth?auth_type=PURE_OAUTH_SDK&app_id=2016051801417322&scope=auth_user&state=init
